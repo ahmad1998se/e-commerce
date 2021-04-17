@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API"
+    "\\API\\Controllers",
+    "\\Core",
+    "\\Core\\Entities",
+    "\\Core\\Interfaces"
   ],
+  "SelectedNode": "\\Grocery Store.sln",
   "PreviewInSolutionExplorer": false
 }
