@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API\\Controllers",
     "\\Core",
     "\\Core\\Entities",
     "\\Core\\Interfaces"
